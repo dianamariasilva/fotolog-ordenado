@@ -1,0 +1,114 @@
+
+body {
+  background-color: white;
+  color:black;
+  background-image: url(../img/fondo4.jpg);
+  background-size: cover;
+}
+
+header {
+  margin-top: 20px;
+  background-image: url(../img/banner.gif);
+  background-size: contain;
+}
+.div1{
+  font-family: 'Baloo Tammudu', cursive;
+  color: white;
+  font-size: 120%;
+}
+
+.nomApe{
+  font-family: 'Baloo Tammudu', cursive;
+  font-size: 140%;
+}
+
+.div2{
+  font-family: 'Poiret One', cursive;
+  font-size: 120%;
+}
+
+#datos{
+  font-weight: 600;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+a {
+  text-decoration: underline;
+  color: green;
+  margin-bottom: 60px;
+  font-family: 'Poiret One', cursive;
+  font-size: 150%;
+  font-weight: bold;
+  background-color: rgba(26, 0, 0, 0.7);
+  padding: 10px;
+}
+
+#bannerflog {
+  margin-bottom: 20px;
+  background-color: rgba(26, 0, 0, 0.7);
+}
+
+#caja{
+ margin: 0px;
+ padding: 0px;
+}
+
+h1, p{
+  color: DeepPink ;
+}
+
+.photos{
+  height:140px;
+  width:140px;
+  padding: 10px;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+textarea, input{
+  width: 100%;
+  border-radius: 0px;
+  border: 1px solid DeepPink;
+  margin-bottom: 20px;
+}
+
+.posteo {
+  color: DeepPink;
+}
+.posteo strong{
+  display: block;
+}
+.posteo hr {
+  border: 1px solid DeepPink;
+}
+/* PARA CORAZON */
+.corazon {
+  font-size: 40px;
+  color: gray;
+  text-align: center;
+}
+.rojo {
+  color: red;
+}
+footer{
+  padding: 10px;
+}
+
+.comentarios{
+  margin-bottom: 10px;
+  border-radius: 7px;
+  padding: 5%;
+  background-color: rgba(0, 0, 255, .6);
+}
+
+
+/* Estilos comentarios */
+
